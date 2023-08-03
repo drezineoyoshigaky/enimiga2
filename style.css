@@ -1,0 +1,7 @@
+.quebracabeca {
+    width: 90px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
